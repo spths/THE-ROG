@@ -1,0 +1,297 @@
+
+//Android Omni-Crypt Root Changer
+.l
+{
+width: 15%;
+height:100%;
+position: fixed;
+background-color: black;
+left: 0;
+top: 0;
+float: left;
+text-align:center;
+}
+
+.ll
+{
+width: 4%;
+height:100%;
+position: fixed;
+background-color: silver;
+opacity: 0.3px;
+left: 0;
+top: 0;
+float: left;
+text-align:center;
+}
+
+.r
+{
+width: 15%;
+height: 100%;
+background-color: black;
+color: green;
+position: fixed;
+right: 0;
+top: 0;
+float: right;
+text-align:center;
+}
+
+.padding
+{
+padding-top: 4px;
+padding-left: 8px;
+padding-right: 8px;
+text-align: justify;
+}  
+
+.m
+{
+width: 70%;
+height: 800px;
+background-color: white;
+margin-top: -5px;
+margin-bottom: auto;
+margin-left: auto;
+margin-right: auto;
+color: maroon;
+}
+
+
+
+.mm
+{
+width: 53%;
+height: 100%;
+background-color: black;
+margin-top: auto;
+float:right;
+padding-left: 3px;
+padding-right: 3px;
+margin-bottom: auto;
+margin-left: auto;
+margin-right: auto;
+color: white;
+opacity:0.6;
+text-opacity: none;
+box-shadow: 0 0px 33px 14px black;
+
+}
+
+
+
+
+.mmt
+{
+width: 40%;
+height: 70%;
+
+margin-top: auto;
+float:left;
+margin-bottom: auto;
+margin-left: 5%;
+opacity: 0.9;
+color: white;
+border-top-left-radius: 0px;
+border-top-right-radius: 0px;
+border-bottom-left-radius: 0px;
+border-bottom-right-radius: 0px;
+
+}
+.mmb
+{
+width: 40%;
+height: 30%;
+margin-top: auto;
+float:left;
+background-color: black;
+box-shadow: 0 0 34px black;
+margin-bottom: auto;
+margin-left: 5%;
+color: white;
+opacity:0.6;
+
+}
+
+.tr td:hover{
+background-color: #011001;
+box-shadow: 0 0 14px solid red;
+text-align: center;
+color: green;
+transition: all 0.4s ease-in-out;
+}
+
+
+.tr1{
+background-color: #999999;
+box-shadow: 0 0 14px solid red;
+text-align: center;
+color: green;
+}
+
+
+.img1{
+width: 100px;
+height: 100px;
+box-shadow: 0 0 1px 1px black;
+border-top-left-radius:  100px;
+border-top-right-radius: 100px;
+border-bottom-left-radius: 100px;
+border-bottom-right-radius: 100px;
+
+}
+
+.img4{
+
+box-shadow: 0 0 4px 10px;
+border-top-left-radius:  0px;
+border-top-right-radius: 100px;
+border-bottom-left-radius: 100px;
+border-bottom-right-radius: 100px;
+}
+
+#img:hover{
+-webkit-transition: all 0.3s ease-in-out 0.1s;
+box-shadow: 0 0 14px solid red;
+box-shadow: 0px 0px 20px 10px;
+color: white;
+}
+
+
+
+.fi{
+
+background-color: ghostwhite;
+border-color: lightblue;
+color: crimson;
+border-bottom-right-radius: 50px;
+height: 35px;
+font-size: 18px;
+}
+.ft{
+
+background-color: ghostwhite;
+border-color: lightblue;
+color: crimson;
+border-bottom-right-radius: 50px;
+font-size: 18px;
+}
+
+
+
+
+.img3{
+background-image: url("../DATA/Icon/bannerwp22.jpg");
+
+width: 100%;
+height: 300px;
+box-shadow: 0 0 10px 4px black;
+border-top-left-radius:  50px;
+border-top-right-radius: 700px;
+border-bottom-left-radius: 700px;
+border-bottom-right-radius: 50px;
+color:yellow;
+
+
+
+}
+
+.img4{
+background-image: url(4.jpg);
+width: 1000px;
+height: 300px;
+}
+
+
+
+
+blockquote.style3 {
+
+  font: 34px "Vivaldi";
+  padding: 1px;
+  background-color: #F0E68C;
+  border-top: 8px solid black;
+  border-bottom: 2px solid black;
+  text-indent: 23px;
+  }
+blockquote.style4 {
+
+  font: 34px "Bauhaus 93";
+  padding: 5px;
+  background-image: url(10.jpg);
+  text-indent: 43px;
+  }
+
+
+div.flip
+{
+position:relative;
+width: 300px; 
+height: 250px; 
+}
+
+div.flip div.rotate{
+width: 100%;
+height: 100%;
+-webkit-transform-style: preserve-3d;
+-webkit-transition: all 0.6s ease-in-out 0.3s;
+}
+
+div.flip div.rotate > *{
+position:absolute;
+width: 100%;
+height: 100%;
+}
+
+div.flip div.rotate > div{
+box-sizing: border-box;
+padding: 15px;
+background-image: url(l5.jpg);
+color: black;
+font-size: 20;
+text-align: center;
+}
+
+
+
+div.rotate.y *:nth-child(2){
+-webkit-transform: rotateY(180deg);
+}
+
+
+div.flip:hover > div.rotate.y{ 
+-webkit-transform: rotateY(180deg);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

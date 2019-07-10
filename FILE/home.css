@@ -1,0 +1,437 @@
+body{
+background-image: url("../BG/bg1.jpg");
+font-family: "Century Gothic";
+}
+
+
+
+
+.body1{background-image: url("../BG/dark1.jpg");
+font-family: "Century Gothic";
+
+}
+
+#menu {
+position: fixed;
+left: 0;
+top: 50%;
+width: 3em;
+background-image: url("l.png");
+height: 3em;
+color: white;
+align: left;
+box-shadow: 2px 2px 2px 2px blue;
+margin-top: 0em;
+margin-left: -2.0em;
+margin-bottom: -2.0em;
+}
+
+#menuup {
+  position: fixed;
+  background-color: black;
+  left: 0;
+  top: 22%;
+  width: 3.5em;
+align: center;
+margin-top: auto;
+margin-bottom: auto;
+  margin-left: -2.3em;
+height:  22em;
+color: white;
+
+box-shadow: 2px 2px 2px 2px teal;
+}
+
+.a{
+
+width: 1010px;  
+height: 3000px;  
+background-color: black;
+box-shadow: 1px 2px 42px 22px black;
+margin-top: -5px;
+margin-bottom: auto;
+margin-left: auto;
+margin-right: auto;
+}
+
+.ai{
+
+width: 1010px;  
+height: 1300px;  
+background-color: #1f1c27;
+box-shadow: none;
+margin-top: -5px;
+margin-bottom: auto;
+margin-left: auto;
+margin-right: auto;
+}
+
+.ag{
+
+width: 1010px;  
+height: 2500px;  
+background-color: black;
+box-shadow: 1px 2px 42px 22px black;
+margin-top: -5px;
+box-shadow: none;
+margin-bottom: auto;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+.t{
+
+width: 1010px;
+height: 40px;
+background-color: black;
+text-align: right;
+color: white;
+
+}
+
+.b{
+width: 1010px;
+height: 300px;
+background-color: black;
+}
+
+.b1{
+width: 20px;
+height: 20px;
+background-color: blue;
+margin-top: auto;
+margin-bottom: auto;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+.c{
+
+width: 1010px;
+height: 40px;
+background-color: black;
+
+}
+
+.d{
+width: 1010px;
+height: 40px;
+background-color: black;
+box-shadow: 1px 2px 42px 22px black;
+font-size: 20px;
+font-family: "OCR A"; 
+color: pink;
+}
+
+.imd{
+width: 1010px;
+height: 40px;
+background-color: black;
+font-size: 20px;
+font-family: "OCR A"; 
+color: red;
+}
+
+.e{
+width: 705px;
+height: 2250px;
+background-color: black;
+float: left;
+}
+
+
+.f{
+width: 300px;
+height: 250px;
+background-color: lightblue;
+font-family: "Berlin Sans FB"; 
+float: right;
+text: white;
+color: red;
+}
+
+.ff{
+width: 300px;
+height: 350px;
+background-color: pink;
+font-family: "Berlin Sans FB"; 
+float: right;
+text: white;
+}
+
+.fff{
+width: 300px;
+height: 550px;
+background-color: yellow;
+font-family: "Berlin Sans FB"; 
+float: right;
+text: white;
+}
+
+.ffff{
+width: 300px;
+height: 1100px;
+background-color: black;
+font-family: "Berlin Sans FB"; 
+float: right;
+text: white;
+color: red;
+}
+
+
+
+
+
+.g{
+
+width: 1010px;
+height: 700px;
+background-color: crimson;
+float: left;
+}
+
+.img1{
+background-image: url(4.jpg);
+width: 1010px;
+height: 300px;
+}
+
+.img2{
+background-image: url(24.jpg);
+width: 200px;
+height: 200px;
+box-shadow: 0 0 4px 10px;
+border-top-left-radius:  200px;
+border-top-right-radius: 100px;
+border-bottom-left-radius: 200px;
+border-bottom-right-radius: 600px;
+}
+
+.img3{
+background-image: url("../BG/blueroll.jpg");
+width: 50px;
+height: 50px;
+box-shadow: 0 0 4px 1px;
+border-top-left-radius:  200px;
+border-top-right-radius: 100px;
+border-bottom-left-radius: 200px;
+border-bottom-right-radius: 600px;
+}
+
+.imgh{
+
+border-top-left-radius:  0px;
+border-top-right-radius: 0px;
+border-bottom-left-radius: 0px;
+border-bottom-right-radius: 50px;
+}
+
+.imgh1{
+width: 220px;
+height: 120px;
+border-top-left-radius:  50px;
+border-top-right-radius: 0px;
+border-bottom-left-radius: 0px;
+border-bottom-right-radius: 50px;
+
+}
+
+.tr00 td:hover{
+color: white;
+box-shadow: 0 0 13px 1px crimson;
+border-top-left-radius:  50px;
+border-top-right-radius: 0px;
+border-bottom-left-radius: 0px;
+border-bottom-right-radius: 50px;
+opacity: 0.8;
+}
+
+.fi{
+
+background-color: #000;
+border-color: lightblue;
+color: pink;
+border-bottom-right-radius: 50px;
+height: 35px;
+font-size: 18px;
+}
+.ft{
+
+background-color: #000;
+border-color: lightblue;
+color: pink;
+border-bottom-right-radius: 50px;
+font-size: 18px;
+}
+.tr td:hover{
+color: white;
+background-image: url("../BG/black555.png");
+
+}
+
+.tr1 td:hover{
+color: white;
+background-image: url("../BG/black555.png");
+
+
+}
+
+.tr01 td:hover{
+color: white;
+background-image: url("../DATA/Icon/layer2.png");
+
+
+}
+
+#tr td:hover{
+color: maroon;
+
+background-image: url("../BG/blue4.jpg");
+box-shadow: 0 0 14px solid red;
+}
+
+
+tr#navlist td
+{ 
+	text-align: center;
+	border-left: 0px solid #CCC;
+	padding: 0; 
+	background-color: black;
+}
+	
+tr#navlist td a
+{
+	display: block; 
+	padding: 10; 
+	color: grey; 
+              	font-size: 18px;
+	text-decoration: none;
+}
+
+tr#navlist td a:hover,tr#navlist td#active a:hover
+{
+	color: white;
+	background-image: url("../DATA/Icon/layer2.png");
+}
+
+
+.i1{
+
+width: 1010px;
+height: 950px;
+background-color: black;
+float: left;
+
+}
+
+#img:hover{
+-webkit-transition: all 0.3s ease-in-out 0.1s;
+box-shadow: 0 0 14px solid red;
+box-shadow: 0px 0px 20px 10px;
+color: white;
+}
+
+#img1:hover{
+-webkit-transition: all 0.3s ease-in-out 0.1s;
+
+opacity: 0.5;
+}
+
+.imgi{
+width: 100%;
+height: 100%;
+}
+
+.td:hover{
+color: white;
+background-color: snow;
+transition: all 0.5s ease-in-out;
+text-decoration: none;
+}
+
+.atd{
+text-decoration: none;
+text-shadow: 0 0 12px 1px yellow;
+}
+
+.ahf:hover{
+color: red;
+transition: all 0.4s ease-in-out;
+text-decoration: none;
+}
+
+
+div.imgp {
+    margin: 20px;
+    border: 3px solid #111;
+    float: left;
+    width: 150px;
+}	
+
+div.imgp:hover {
+    border: 3px solid #555;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+div.imgq {
+    margin: 20px;
+    border: 3px solid #111;
+    float: left;
+    width: 200px;
+
+}	
+
+div.imgq:hover {
+    border: 3px solid #555;
+}
+
+div.descq {
+    padding: 15px;
+    text-align: center;
+}
+
+
+
+.icon{
+list-style-type:none;
+margin:0;
+padding:0;
+}
+
+.icon li{
+display:inline;
+width: 65px;
+height:60px;
+}
+
+.icon li img{
+width: 55px; 
+height: 60px; 
+border:0;
+margin-right: 14px; 
+-webkit-transition:-webkit-transform 0.2s ease-in; 
+
+}
+
+.icon li img:hover{
+-webkit-transform:scale(1.5);
+}
+
+
+::-webkit-scrollbar {
+width: 5px;
+height: 15px;
+}
+::-webkit-scrollbar-track-piece  {
+background-color: #000000;
+}
+::-webkit-scrollbar-thumb:vertical {
+height: 35px;
+background-image: url("../DATA/Icon/load11.gif");
+}
